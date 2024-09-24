@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    background-color: #F1F6F8;
+    color: #323D48;
+    font-size: 18px;
+    width: 60%;
+    margin: auto;
+}
+
+h1{
+    font-size: 36px;
+    color: #323D48;
+    font-family: "Instrument Serif";
+    font-weight: bold;
+    padding-top: 1em;
+    padding-bottom: .5em;
+}
+
+h2{
+    font-size: 30px;
+    color: #323D48;
+    font-family: "Instrument Serif";
+}
+
+h3{
+    font-size: 27px;
+    color: #323D48;
+    font-family: "Instrument Serif"
+}
+
+h4{
+    font-size: 24px;
+    color: #323D48;
+    font-family: "Instrument Serif";
+    font-weight: normal
+}
+
+p{
+    font-size: 20px;
+    color: #17556E;
+    font-family: "Inter";
+    font-weight: normal;
+    line-height: 150%;
+}
+
+a{
+    font-family: "Inter";
+    color: #2E81A4;
+    font-weight: 650;
+    font-size: 18px;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: #17556E;
+}
+
+ul, ol{
+    margin-left: 20px;
+}
